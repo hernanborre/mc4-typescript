@@ -5,7 +5,7 @@ function sumar(num1: number, num2: number):number{
 }
 
 function imprimirSuma(num1: number, num2: number): string {
-    //return num1.toString() + num2.toString()
+    //return (num1  + num2).toString()
     return `La suma es: ${num1 + num2}` 
 }
 
